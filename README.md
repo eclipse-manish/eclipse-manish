@@ -9,7 +9,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="200" height="200"/> </a>
 </div>
 
-## HTML :
+## HTML (index.html):
 ```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -28,7 +28,7 @@
 
 ```
 
-## CSS :
+## CSS (index.css):
 ```css
       :root {
           --purple: rgb(123, 31, 162);
