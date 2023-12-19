@@ -7,6 +7,7 @@
 <div align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/html5/html5-plain-wordmark.svg" alt="html5" width="200" height="200"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-plain-wordmark.svg" alt="css3" width="200" height="200"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="js" width="200" height="200"/> </a>
 </div>
 
 ## HTML (index.html):
