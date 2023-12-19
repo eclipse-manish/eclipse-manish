@@ -1,4 +1,4 @@
-[![SVG](https://readme-typing-svg.demolab.com?font=Arial+Nova&size=45&duration=1500&pause=1000&color=00ffff&width=720&height=70&lines=Welcome+To+My+Profile,;I+am+Manish+Arya;Nice+To+Meet+You.)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=1500&pause=1000&color=00ffff&width=720&height=100&lines=Welcome+To+My+Profile;I+am+Manish+Arya;Nice+To+Meet+You.)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I'm into Web Development Course. <br> 🙌 I like to write HTML and CSS.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning many things.<br>⚡ I'm Pretty Busy These Days.
