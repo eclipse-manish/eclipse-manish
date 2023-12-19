@@ -1,12 +1,13 @@
-[![SVG](https://readme-typing-svg.demolab.com?font=Arial+Nova&size=45&duration=1500&pause=1000&color=00ffff&width=720&height=70&lines=Welcome+To+My+Profile,;I+am+Manish+Arya;Nice+To+Meet+You.)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=1500&pause=1000&color=00ffff&width=720&height=100&lines=Welcome+To+My+Profile;I+am+Manish+Arya;Nice+To+Meet+You.)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I'm into Web Development Course. <br> 🙌 I like to write HTML and CSS.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning many things.<br>⚡ I'm Pretty Busy These Days.
 
 # Things i work with.
 <div align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="200" height="200"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="200" height="200"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/html5/html5-plain-wordmark.svg" alt="html5" width="200" height="200"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-plain-wordmark.svg" alt="css3" width="200" height="200"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="js" width="200" height="200"/> </a>
 </div>
 
 ## HTML (index.html):
