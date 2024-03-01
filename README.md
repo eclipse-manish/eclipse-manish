@@ -1,7 +1,7 @@
 [![SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=1500&pause=1000&color=00ffff&width=720&height=100&lines=Welcome+To+My+Profile;I+am+Manish+Arya;Nice+To+Meet+You.)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I'm into Web Development Course. <br> 🙌 I like to write HTML and CSS.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning many things.<br>⚡ I'm Pretty Busy These Days.
+🔭 I'm into Web Development Course (BCA). <br> 🙌 I like to write HTML and CSS.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning many things.<br>⚡ I'm Pretty Busy These Days.
 
 # Things i work with.
 <div align="center">
@@ -31,28 +31,28 @@
 
 ## CSS (index.css):
 ```css
-      :root {
-          --purple: rgb(123, 31, 162);
-          --violet: rgb(103, 58, 183);
-          --pink: rgb(244, 143, 177);
-      }
-      body {
-          background-color: #000;
-          display: grid;
-          height: 100vh;
-          margin: 0px;
-          overflow: hidden;
-          place-items: center;
-      }
-      
-      code {
-          color: white;
-          font-family: "Rubik", monospace , sans-serif;
-          font-size: clamp(2em, 2vw, 4em);
-          font-weight: 400;
-          margin: 0px;
-          padding: 20px;
-          text-align: center;
-          overflow: hidden;
-      }
+:root {
+  --purple: rgb(123, 31, 162);
+  --violet: rgb(103, 58, 183);
+  --pink: rgb(244, 143, 177);
+}
+body {
+  background-color: #000;
+  display: grid;
+  height: 100vh;
+  margin: 0px;
+  overflow: hidden;
+  place-items: center;
+}
+
+code {
+  color: white;
+  font-family: "Rubik", monospace , sans-serif;
+  font-size: clamp(2em, 2vw, 4em);
+  font-weight: 400;
+  margin: 0px;
+  padding: 20px;
+  text-align: center;
+  overflow: hidden;
+}
 ```
