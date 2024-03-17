@@ -1,0 +1,27 @@
+name: Commit Something
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 0,8,16 * * *'  # Runs daily at 12:10 AM, 8:10 AM, and 4:10 PM IST
+
+jobs:
+  create_file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: undefined
+        run: echo "print("Hello, world !")" > main.py
+        
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Doing job
+          commit_user_name: Manish Arya
+          commit_user_email: 143704410+eclipse-manish@users.noreply.github.com
+          branch: ${{ github.ref }}
+          commit_options: '-a'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
