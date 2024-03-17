@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
         
       - name: undefined
-        run: echo "print("Hello, world !")" > main.py
+        run: echo "print('Hello, world !')" > main.py
         
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
