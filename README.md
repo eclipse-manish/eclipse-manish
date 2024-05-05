@@ -1,5 +1,7 @@
 [![SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=1500&pause=1000&color=00ffff&width=720&height=100&lines=Welcome+To+My+Profile;I+am+Manish+Arya;Nice+To+Meet+You.)](https://git.io/typing-svg)
 
+<img src="https://ssr-contributions-svg.vercel.app/_/eclipse-manish?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=26&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" alt="chart" />
+
 # 💫 About Me:
 🔭 I'm into Web Development Course (BCA). <br> 🙌 I like to write HTML and CSS.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning many things.<br>⚡ I'm Pretty Busy These Days.
 
