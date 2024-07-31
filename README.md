@@ -3,7 +3,7 @@
 <img src="https://ssr-contributions-svg.vercel.app/_/eclipse-manish?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=26&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" alt="chart" />
 
 ## 💫 About Me:
-🔭 I'm into Web Development Course (BCA). <br> 🙌 I like to write HTML and CSS.<br>🤝 I’m looking for a good study mentor.<br>🌱 I’m currently learning nothing.<br>⚡ I'm Pretty Busy These Days.
+🔭 I'm into Web Development Course (BCA). <br> 🙌 I like to write HTML and CSS.<br>🤝 I’m looking for a good study partner.<br>🌱 I’m currently learning few things.<br>⚡ I'm pretty busy nowadays.
 
 <!-- 
 # Things i work with.
@@ -12,8 +12,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-plain-wordmark.svg" alt="css3" width="200" height="200"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="js" width="200" height="200"/> </a> 
 </div>
--->
-    
+
+
 ### HTML (index.html):
 ```html
 <!DOCTYPE html>
@@ -60,3 +60,4 @@ code {
   overflow: hidden;
 }
 ```
+-->
