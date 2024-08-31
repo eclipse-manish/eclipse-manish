@@ -3,19 +3,19 @@ name: Uncommit Changes
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 0,8,16 * * *'  # Runs daily at 12:15 AM, 8:15 AM, and 4:15 PM IST
+    - cron: '5 */2 * * *'
 
 jobs:
   delete_file:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         
-      - name: undefined
+      - name: Step
         run: rm -f main.py
         
-      - name: Commit and push changes
+      - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Doing job
