@@ -3,7 +3,7 @@ name: Uncommit Changes
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 */2 * * *'
+    - cron: '5 */4 * * *'
 
 jobs:
   delete_file:
